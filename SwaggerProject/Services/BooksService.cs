@@ -1,6 +1,6 @@
+using MongoDB.Driver;
 using SwaggerProject.Models;
 using Microsoft.Extensions.Options;
-using MongoDB.Driver;
 
 namespace BookStoreApi.Services;
 

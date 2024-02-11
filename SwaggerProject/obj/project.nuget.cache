@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+vZxHtIt6c+U50nYloVbVwf9hTix8QtMc9Pev0/Kz9zo/zvSgecicG0OfKswIeDkSjii465fUzsUEm+Vff11gw==",
+  "dgSpecHash": "9xYxVHv6gueZ5+uT3uCz3l51Beab/aXSTY3XINHJewprMYyMq/y10R58B0KZ7picY9kNhDlyJMT19r713X/2cQ==",
   "success": true,
   "projectFilePath": "/home/elliot/Desktop/projects/SwaggerProject/SwaggerProject/SwaggerProject.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "/home/elliot/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/home/elliot/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
     "/home/elliot/.nuget/packages/mongodb.bson/2.23.1/mongodb.bson.2.23.1.nupkg.sha512",
+    "/home/elliot/.nuget/packages/mongodb.driver/2.23.1/mongodb.driver.2.23.1.nupkg.sha512",
     "/home/elliot/.nuget/packages/mongodb.driver.core/2.23.1/mongodb.driver.core.2.23.1.nupkg.sha512",
     "/home/elliot/.nuget/packages/mongodb.libmongocrypt/1.8.0/mongodb.libmongocrypt.1.8.0.nupkg.sha512",
     "/home/elliot/.nuget/packages/sharpcompress/0.30.1/sharpcompress.0.30.1.nupkg.sha512",
