@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwaggerProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e560c7bbd60296447c68261a6ff35acdf8e1d6d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17fa7b4677bf52c6a8b5de3d214d7b5528fc06af")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwaggerProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwaggerProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
