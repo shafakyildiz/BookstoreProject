@@ -1,4 +1,4 @@
 # SwaggerProject
 
-![Preview](https://ibb.co/ckmLPKq)
+![Preview](https://iili.io/J1vYXAF.png)
 
