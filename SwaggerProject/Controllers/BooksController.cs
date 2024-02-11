@@ -1,8 +1,8 @@
 using SwaggerProject.Models;
-using BookStoreApi.Services;
+using SwaggerProject.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BookStoreApi.Controllers;
+namespace SwaggerProject.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

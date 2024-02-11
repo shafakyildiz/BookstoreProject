@@ -2,7 +2,7 @@ using MongoDB.Driver;
 using SwaggerProject.Models;
 using Microsoft.Extensions.Options;
 
-namespace BookStoreApi.Services;
+namespace SwaggerProject.Services;
 
 public class BooksService
 {

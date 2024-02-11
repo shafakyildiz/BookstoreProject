@@ -1,4 +1,4 @@
-using BookStoreApi.Services;
+using SwaggerProject.Services;
 using SwaggerProject.Models;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,6 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddControllers();
+
 
 // Add services to the container.
 builder.Services.Configure<BookStoreDatabaseSettings>(
@@ -15,6 +17,13 @@ builder.Services.Configure<BookStoreDatabaseSettings>(
 builder.Services.AddSingleton<BooksService>();
 
 var app = builder.Build();
+
+// Enable static file serving (if needed)
+app.UseStaticFiles();
+
+// Configure routing
+app.UseRouting();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
