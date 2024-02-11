@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerProject", "SwaggerProject\SwaggerProject.csproj", "{38761451-4A87-49F6-9552-7363F422A24E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38761451-4A87-49F6-9552-7363F422A24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38761451-4A87-49F6-9552-7363F422A24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38761451-4A87-49F6-9552-7363F422A24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38761451-4A87-49F6-9552-7363F422A24E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
