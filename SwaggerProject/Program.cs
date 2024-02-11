@@ -40,6 +40,7 @@ var summaries = new[]
     "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
 };
 
+// Add this to reach the controllers
 app.MapControllers();
 
 app.MapGet("/weatherforecast", () =>
