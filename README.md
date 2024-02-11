@@ -1,3 +1,4 @@
 # SwaggerProject
 
-![alt text](https://ibb.co/ckmLPKq)
+![Preview](https://ibb.co/ckmLPKq)
+
